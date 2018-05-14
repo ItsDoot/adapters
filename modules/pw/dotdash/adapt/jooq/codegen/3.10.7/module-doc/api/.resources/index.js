@@ -1,0 +1,25 @@
+var index = [
+{'name': 'pw.dotdash.adapt.jooq.codegen', 'type': 'package', 'url': 'index.html#section-package', 'doc': '<p>Ceylonic adapters for jooq-codegen classes.</p>', 'tags': [],'icons': ['icon-package']},
+{'name': 'catalog', 'type': 'function', 'url': 'index.html#catalog', 'doc': '<p>Configuration of an input catalog and its mappings.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'property', 'type': 'function', 'url': 'index.html#property', 'doc': '<p>Custom properties that are useful for Database implementations.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'generate', 'type': 'function', 'url': 'index.html#generate', 'doc': '<p>Options strictly related to generated code.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'database', 'type': 'function', 'url': 'index.html#database', 'doc': '<p>Configuration of the database meta data source.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'rule', 'type': 'function', 'url': 'index.html#rule', 'doc': '<p>Java class for MatcherRule complex type.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'target', 'type': 'function', 'url': 'index.html#target', 'doc': '<p>Options to define where the generated code should be located.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'generator', 'type': 'function', 'url': 'index.html#generator', 'doc': '<p>Configuration that affects the way code is being generated.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'configuration', 'type': 'function', 'url': 'index.html#configuration', 'doc': '<p>Java class for anonymous complex type.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'jdbc', 'type': 'function', 'url': 'index.html#jdbc', 'doc': '<p>JDBC connection configuration.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'enumType', 'type': 'function', 'url': 'index.html#enumType', 'doc': '<p>Java class for EnumType complex type.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'customType', 'type': 'function', 'url': 'index.html#customType', 'doc': '<p>Use <a class=\'link\' href=\'index.html#forcedType\' title=\'Go to pw.dotdash.adapt.jooq.codegen::forcedType\'><code><span class=\'identifier\'>forcedType()</span></code></a> only</p>', 'tags': [],'icons': ['icon-decoration-deprecated', 'icon-shared-member']},
+{'name': 'matcherRoutine', 'type': 'function', 'url': 'index.html#matcherRoutine', 'doc': '<p>Declarative naming strategy configuration for routine names.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'matcherField', 'type': 'function', 'url': 'index.html#matcherField', 'doc': '<p>Declarative naming strategy configuration for field names.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'strategy', 'type': 'function', 'url': 'index.html#strategy', 'doc': '<p>Definitions of custom naming strategies (declarative or programmatic) to define how generated Java objects should be…</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'forcedType', 'type': 'function', 'url': 'index.html#forcedType', 'doc': '<p>A forced type declaration.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'matcherTable', 'type': 'function', 'url': 'index.html#matcherTable', 'doc': '<p>Declarative naming strategy configuration for table names.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'matchers', 'type': 'function', 'url': 'index.html#matchers', 'doc': '<p>Declarative naming strategy configuration.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'matcherSequence', 'type': 'function', 'url': 'index.html#matcherSequence', 'doc': '<p>Declarative naming strategy configuration for sequence names.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'matcherSchema', 'type': 'function', 'url': 'index.html#matcherSchema', 'doc': '<p>Declarative naming strategy configuration for schema names.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'schema', 'type': 'function', 'url': 'index.html#schema', 'doc': '<p>Configuration of an input schema and its mappings.</p>', 'tags': [],'icons': ['icon-shared-member']},
+{'name': 'pw.dotdash.adapt.jooq.codegen', 'type': 'module', 'url': 'index.html', 'doc': '<p>Ceylonic adapters for jooq-codegen classes.</p>', 'tags': [],'icons': ['icon-module']}];
+var tagIndex = [
+];
